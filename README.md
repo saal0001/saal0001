@@ -5,9 +5,6 @@
 
 🌱 i'm curently learning java
 
-📪 how to reach me:
-saka6425@gmail.com
-
 
 <!--
 **saal0001/saal0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
